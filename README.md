@@ -29,5 +29,6 @@
 7. [直方图](http://ex2tron.wang/opencv-python-histograms/)（计算绘制直方图/均衡化）
 8. [模板匹配](http://ex2tron.wang/opencv-python-template-matching/)（大图中找小图）
 9. [ 霍夫变换](http://ex2tron.wang/opencv-python-hough-transform/)（提取直线/圆）
+10. 
 
 [**挑战任务：车道检测**](http://ex2tron.wang/opencv-python-lane-road-detection/) 
